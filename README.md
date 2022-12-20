@@ -1,6 +1,6 @@
 # PacMen Factory
 
-<img src="images/pacman.png">
+<img src="images/PacMan1.png">
 
 ## Project Description
 The user can populate their screen with as many PacMan characters as they desire via a dedicated button. Once toggled via a dedicated button, each PacMan will begin moving across the screen at a unique speed, bouncing off the pages' edges.
