@@ -1,7 +1,7 @@
 # PacMen Factory
 
 ## Project Description
-The user can populate their screen with as many PacMan characters as they desire via a dedicated button. Once toggled via a dedicated button, each PacMan will begin moving across the screen at a unique speed, bouncing off the pages' edges.
+The user can populate their screen with as many PacMan characters as they desire via a dedicated button. By toggling the 'start game' button, each PacMan will begin moving across the screen at a unique speed, bouncing off the pages' edges.
 
 ## How to Run
 To run the program, begin by downloading this repository. Once installed, open index.html in a new browser tab and populate the screen with PacMen via the dedicated button. Begin the animation via the 'Start Game' button. 
